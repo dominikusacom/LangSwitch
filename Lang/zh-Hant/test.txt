@@ -1,8 +1,6 @@
 //這是註解
 /*這是註解*/
-
 Download§下載軟體
-Built to make you extraordinarily productive,§專為提高您的工作效率而打造
-Cursor is the best way to code with AI.§遊標是使用人工智慧編碼的最佳方式。
+Built to make you extraordinarily productive, Cursor is the best way to code with AI.§專為提高您的工作效率而打造，遊標是使用人工智慧編碼的最佳方式。
 Settings§設置
 Logout§登出
