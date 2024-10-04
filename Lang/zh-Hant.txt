@@ -1,4 +1,2 @@
-Figma figma.com ~figma.com~.txt
-Figma(www) www.figma.com ~figma.com~.txt
-Figma(泛解析) *.figma.com ~figma.com~.txt
-Cursor www.cursor.com test.txt
+Figma *.figma.com Figma.txt
+Miro *.miro.com Miro.txt
