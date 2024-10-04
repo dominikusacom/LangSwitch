@@ -1,2 +1,1 @@
 Figma figma.com ~figma.com~.txt
-Google Google.com ~Google.com~.txt
