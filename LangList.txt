@@ -1,0 +1,2 @@
+繁體中文 zh-Hant
+簡體中文 zh-Hans
