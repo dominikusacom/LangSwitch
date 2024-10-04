@@ -1,3 +1,4 @@
 Figma figma.com ~figma.com~.txt
+Figma2 www.figma.com ~figma.com~.txt
 Figma改版 figma.com ~figma.com(2)~.txt
 Google Google.com ~Google.com~.txt
