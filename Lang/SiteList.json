@@ -13,7 +13,7 @@
               "path": "/*",
               "sort_order": 1,
               "usage": "所有頁面",
-              "package_directory": "Figma_Simplified.csv",
+              "package_directory": "/figma.com/Figma_Simplified.csv",
               "last_updated": "2025-05-01T10:00:00Z"
             }
           ]
@@ -28,7 +28,7 @@
               "path": "/*",
               "sort_order": 1,
               "usage": "所有頁面",
-              "package_directory": "Figma_Traditional.csv",
+              "package_directory": "/figma.com/Figma_Traditional.csv",
               "last_updated": "2025-04-20T15:30:00Z"
             }
           ]
