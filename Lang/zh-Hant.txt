@@ -1,2 +1,39 @@
-Figma *.figma.com Figma.txt
-Miro *.miro.com Miro.txt
+{
+  "domains": [
+    {
+      “primary_domain": "figma.com",
+      "languages": [
+        {
+          "order": 2,
+          “lang_name": “FIGMA (Simplified Chinese)",
+          “main_name": “FIGMA (简体中文)”,",
+          "description": “简体 0.1 Beta”,
+          "pages": [
+            {
+              "path": "/*",
+              "sort_order": 1,
+              "usage": "所有頁面",
+              "package_directory": "Figma_Simplified.csv",
+              "last_updated": "2025-05-01T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "order": 1,
+          "lang_name": “FIGMA (Traditional Chinese)",
+          "main_name": “FIGMA (繁體中文)”,
+          "description": “繁體 0.1 Beta”,
+          "pages": [
+            {
+              "path": "/*",
+              "sort_order": 1,
+              "usage": "所有頁面",
+              "package_directory": "Figma_Traditional.csv",
+              "last_updated": "2025-04-20T15:30:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
