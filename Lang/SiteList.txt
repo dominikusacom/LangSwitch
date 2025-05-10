@@ -1,2 +1,2 @@
-Figma *.figma.com zh-Hant/Figma.txt
+Figma *.figma.com zh-Hant/Figma_Traditional.csv
 Miro *.miro.com Miro.txt
