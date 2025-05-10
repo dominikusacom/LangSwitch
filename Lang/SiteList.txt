@@ -1,0 +1,2 @@
+Figma *.figma.com Figma.txt
+Miro *.miro.com Miro.txt
