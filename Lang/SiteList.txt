@@ -1,12 +1,2 @@
-[
-  {
-    "displayName": "Figma",
-    "matchPattern": "figma.com",
-    "translationFile": "figma.com/Figma_Traditional.csv"
-  },
-  {
-    "displayName": "Miro",
-    "matchPattern": "miro.com",
-    "translationFile": "miro.com/Miro.txt"
-  }
-]
+Figma *.figma.com figma.com/Figma_Traditional.csv
+Miro *.miro.com miro.com/Miro.txt
