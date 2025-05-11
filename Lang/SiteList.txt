@@ -1,12 +1,12 @@
 [
   {
     "displayName": "Figma",
-    "matchPattern": "*.figma.com",
+    "matchPattern": "figma.com",
     "translationFile": "figma.com/Figma_Traditional.csv"
   },
   {
     "displayName": "Miro",
-    "matchPattern": "*.miro.com",
+    "matchPattern": "miro.com",
     "translationFile": "miro.com/Miro.txt"
   }
 ]
